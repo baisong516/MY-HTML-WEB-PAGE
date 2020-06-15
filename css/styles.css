@@ -1,0 +1,9 @@
+.bgimage{
+  background-image: url('../images/reptiles.jpg');
+  background-position: center center;  
+  background-size: cover;/* cover, contain,length,percentage   */
+  height:200px;
+}
+.navbar-default {
+  border: none;
+}
